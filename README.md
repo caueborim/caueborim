@@ -24,7 +24,7 @@ app.listen(3000, () =>{
 ## **Linguagens e Ferramentas:**  
 
 <div style="display: inline_block"><br>
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="50" height="50" align="center"/>
+  <img src="https://github.com/caueborim/caueborim/blob/main/Profile--GitHubAuxiliaryFiles/python.svg" width="50" height="50" align="center"/>
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/typescript-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/react-original.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/nodejs-original.svg" width="50" height="40" align="center"/>
