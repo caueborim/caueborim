@@ -1,116 +1,21 @@
-# 👋 Olá! Eu sou o Cauê
+# Cauê Borim 👋
 
-🎯 Em início de carreira, construindo um portfólio baseado em projetos práticos e análise aplicada.
+Analista de Dados com foco em análise exploratória, métricas e interpretação de comportamento a partir de dados reais.
 
-Este perfil funciona como meu laboratório público: tudo que eu aprendo é transformado em análise, dataset ou visualização.
-O objetivo é demonstrar organização, raciocínio analítico e capacidade de trabalhar com dados do mundo real.
+Utilizo Python e SQL para limpeza, tratamento e exploração de dados, criando indicadores e visualizações que auxiliam tomada de decisão.
 
----
+## Principais competências
 
-## 🚀 Sobre mim
+• Data Cleaning & Wrangling
+• Análise Exploratória (EDA)
+• Criação de métricas e indicadores
+• Visualização de dados e dashboards
 
-* 🧠 Interesse em métricas, padrões de comportamento e tomada de decisão baseada em dados
-* 🛠 Experiência prática com manipulação, exploração e visualização de dados
-* 📈 Construindo projetos consistentes para aplicações reais
+## Ferramentas
 
----
+Python • Pandas • Numpy • Matplotlib • SQL • Power BI • Git
 
-## 🧩 Projetos
+## Contato
 
-### ₿ Bitcoin Quantitative Analysis
-
-Análise quantitativa utilizando dados históricos do Bitcoin.
-
-Inclui:
-
-* limpeza e preparação dos dados
-* exploração estatística
-* criação de métricas
-* visualizações
-
-Objetivo: identificar padrões e comportamento do ativo ao longo do tempo.
-
----
-
-### 🎨 Cartoons Dataset Project
-
-Criação e tratamento de um dataset estruturado em Python.
-
-Inclui:
-
-* organização de dados
-* padronização de informações
-* manipulação com Pandas
-
-Objetivo: praticar estruturação de dados e preparação para análise.
-
----
-
-### 🏃 Running Data Analysis
-
-Projeto de análise de dados pessoais de corrida.
-
-Inclui:
-
-* tratamento de dados
-* criação de métricas de evolução
-* visualizações de desempenho
-
-Objetivo: transformar dados simples em informações úteis de acompanhamento.
-
----
-
-### 📊 BTC Backtest Performance (BI)
-
-Análise exploratória baseada em resultados de testes de performance.
-
-Inclui:
-
-* análise de resultados
-* construção de indicadores
-* visualização de consistência ao longo do tempo
-
-Objetivo: interpretar resultados e comunicar insights de forma clara.
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-**Linguagens**
-
-* Python
-* SQL (intermediário)
-
-**Bibliotecas**
-
-* Pandas
-* Numpy
-* Matplotlib
-* Seaborn
-
-**Ferramentas**
-
-* Git & GitHub
-* Jupyter Notebook
-* VS Code
-* Power BI
-
----
-
-## 📊 Competências Trabalhadas nos Projetos
-
-* Limpeza e tratamento de dados
-* Análise exploratória (EDA)
-* Criação de métricas
-* Visualização de dados
-* Organização de datasets
-* Comunicação de resultados
-
----
-
-## 📫 Contato
-
-* LinkedIn: https://www.linkedin.com/in/caue-borim/
-* Email: caueborim@gmail.com
-
-Aberto a oportunidades, feedbacks e colaboração em projetos de dados.
+LinkedIn: https://www.linkedin.com/in/caue-borim/
+Email: [caueborim@gmail.com](mailto:caueborim@gmail.com)
